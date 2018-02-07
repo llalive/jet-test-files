@@ -1,7 +1,5 @@
 package ru.llalive.dev.jet.test.files.functions;
 
-import java.util.List;
-
 /**
  *
  * @author babikov_pv
